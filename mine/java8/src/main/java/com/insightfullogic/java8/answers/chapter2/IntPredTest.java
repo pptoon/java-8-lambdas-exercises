@@ -1,4 +1,4 @@
-package com.insightfullogic.java8.ch02.answers;
+package com.insightfullogic.java8.answers.chapter2;
 
 import java.util.function.Predicate;
 /** 
